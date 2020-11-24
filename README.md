@@ -10,5 +10,5 @@ Public Rights of Way are under threat. in 2026, any unregistered PRoW will be re
 Help me produce code that maps and analyses data about the distribution, distance and other variables about PRoW
 Where users can get help with your project? </h2>  
 http://rowresearch.coventry.domains/
-Who maintains and contributes to the project? </h2>  
+<h2>Who maintains and contributes to the project? </h2>  
 Dr Joe Thorogood 
